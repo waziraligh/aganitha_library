@@ -6,3 +6,5 @@ can be used for the desired purpose by passing the input paragraph from the prog
 conversion has the function convert which takes the input paragraph from the user and converts it into written english before
 printing it. This py file can be imported in python3 environment using import command and the class conversion can be imported 
 using the import Spoken2Writtenenglish.conversion command.
+
+For example, "two dollars" should be converted to $2. Abbreviations spoken as "C M" or "Triple A" should be written as "CM" and "AAA" respectively.
