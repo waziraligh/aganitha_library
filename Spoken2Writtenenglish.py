@@ -157,7 +157,7 @@ class conversion:
         
     def convert(self, inp_para):
         
-        # Taking the input from the user
+        # Taking the input from the parent program from where this method would be called
         self.inp_para = inp_para
         self.out_para = ""
         
