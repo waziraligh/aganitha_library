@@ -14,13 +14,17 @@ E.g:-
 #Put the Spoken2Writtenenglish.py in the same folder in which you are writing the program ABC.py, say.
 
 #Import the class convert using the following
+
 from Spoken2Writtenenglish import conversion
 
 #Create an object of the class conversion
+
 obj = conversion()
 
 #Take the input paragraph of spoken english from the user
+
 inp_para = input("Please enter your paragraph of SPoken English:\n\n")
 
 #Call the method convert of the instance of the class conversion
+
 obj.convert(inp_para)
